@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: My Diary
+title: 🗞️ Journal
 subtitle: ''
 description: ''
 keywords:
@@ -12,8 +12,7 @@ language: en
 timezone: ''
 
 # URL
-## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://blog.ghoul.cloud
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
