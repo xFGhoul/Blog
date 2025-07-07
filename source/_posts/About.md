@@ -28,5 +28,4 @@ tags:
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=v4ywvr4aqj8bt5w2zpx6t7iqg&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-
 ![Code Time](http://img.shields.io/badge/Code%20Time-698%20hrs%2017%20mins-blue)
